@@ -3,7 +3,7 @@ h
 
 Display help for any command
 
-Requiremetns
+Requirements
 --------------------------------------------------------------------------------
 
 Use `/bin/sh`. Tested on OSX and Ubuntu.
@@ -15,6 +15,7 @@ Installation
 Download to your executable path.
 
     $ curl -LO https://raw.github.com/Tomohiro/h/master/h $HOME/bin/
+    $ chmod +x $HOME/bin/h
 
 
 Usage
