@@ -1,4 +1,4 @@
-h
+h ![Still Maintained](https://dl.dropbox.com/u/173097/github/stillmaintained.jpg)
 ================================================================================
 
 Display help for any command
