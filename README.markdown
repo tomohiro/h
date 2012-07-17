@@ -4,9 +4,9 @@ h
 help anything
 
 
-   $ h rbenv # same: rbenv help
-   $ h gem   # same: gem -h
-   $ h irssi # same: irssi --help
+    $ h rbenv # same: rbenv help
+    $ h gem   # same: gem -h
+    $ h irssi # same: irssi --help
 
 
 -
