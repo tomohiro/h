@@ -14,8 +14,9 @@ Installation
 
 Download to your executable path.
 
-    $ curl -LO https://raw.github.com/Tomohiro/h/master/h $HOME/bin/
-    $ chmod +x $HOME/bin/h
+    $ cd $HOME/bin
+    $ curl -LO https://raw.github.com/Tomohiro/h/master/h
+    $ chmod +x ./h
 
 
 Usage
