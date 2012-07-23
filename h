@@ -14,7 +14,7 @@ set -e
     local options='--help -h help -help --h'
     for option in $(echo $options); do
       if $cmd $option > /dev/null 2>&1; then
-        $cmd $option $@
+        exec $cmd $@ $option
         return 0
       fi
     done

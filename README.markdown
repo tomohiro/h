@@ -1,7 +1,8 @@
-h ![Still Maintained](https://dl.dropbox.com/u/173097/github/stillmaintained.jpg)
+h
 ================================================================================
 
 Display help for any command
+
 
 Requirements
 --------------------------------------------------------------------------------
@@ -22,9 +23,10 @@ Download to your executable path.
 Usage
 --------------------------------------------------------------------------------
 
-    $ h rbenv # same: rbenv help
-    $ h gem   # same: gem -h
-    $ h irssi # same: irssi --help
+    $ h rbenv         # rbenv help
+    $ h gem           # gem -h
+    $ h irssi         # irssi --help
+    $ h heroku addons # heroku addons --help
 
 
 ---
